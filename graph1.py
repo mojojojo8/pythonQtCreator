@@ -32,3 +32,4 @@ for i in xrange(1, 2000):
         fig.canvas.blit(ax.bbox)
 
 print 'FPS:' , 2000/(time.time()-tstart) 
+#zmena
